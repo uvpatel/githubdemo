@@ -1,0 +1,22 @@
+{
+  "title": "Reverse Integer",
+  "titleSlug": "reverse-integer",
+  "frontendQuestionId": "7",
+  "leetcodeUrl": "https://leetcode.com/problems/reverse-integer/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-06T15:31:15.929Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-06T15:31:18.082Z"
+}
