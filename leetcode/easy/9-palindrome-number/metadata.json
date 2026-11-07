@@ -1,0 +1,22 @@
+{
+  "title": "Palindrome Number",
+  "titleSlug": "palindrome-number",
+  "frontendQuestionId": "9",
+  "leetcodeUrl": "https://leetcode.com/problems/palindrome-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-07T00:57:40.221Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-07T00:57:42.171Z"
+}
