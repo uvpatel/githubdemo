@@ -1,0 +1,1 @@
+<h2><a href="https://leetcode.com/problems/remove-elements-by-type-and-color/">Accepteda few seconds agoPython3--</a></h2><h3>Unknown</h3><hr>Problem description not found.
