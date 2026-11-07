@@ -8,13 +8,13 @@
   "language": "Unknown",
   "verdict": "Accepted",
   "submissionId": null,
-  "submittedAt": "2026-11-07T14:44:36.624Z",
+  "submittedAt": "2026-11-07T14:53:03.117Z",
   "runtimeMs": null,
   "memoryKb": null,
   "totalCorrect": null,
   "totalTestcases": null,
-  "helpType": "EDITORIAL",
-  "helpLabel": "Used editorial",
+  "helpType": "HINT",
+  "helpLabel": "Needed hint",
   "focusSeconds": null,
-  "syncedAt": "2026-11-07T14:51:35.057Z"
+  "syncedAt": "2026-11-07T14:53:58.218Z"
 }
