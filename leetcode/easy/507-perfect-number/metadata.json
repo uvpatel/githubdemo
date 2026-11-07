@@ -1,0 +1,22 @@
+{
+  "title": "Perfect Number",
+  "titleSlug": "perfect-number",
+  "frontendQuestionId": "507",
+  "leetcodeUrl": "https://leetcode.com/problems/perfect-number/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-07T01:11:55.766Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-07T01:11:58.395Z"
+}

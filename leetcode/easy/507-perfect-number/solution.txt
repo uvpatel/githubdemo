@@ -1,0 +1,19 @@
+
+class Solution:
+    def checkPerfectNumber(self, n: int) -> bool:
+        if n <= 1:
+            return False
+
+        sum_of_divisors = 1
+        i = 2
+
+        while i * i <= n:
+            if n % i == 0:
+                if i * i == n:
+                    sum_of_divisors += i
+                else:
+                    sum_of_divisors += i + (n // i)
+
+            i += 1
+
+        return sum_of_divisors == n
