@@ -1,0 +1,20 @@
+{
+  "title": "count-consistent-subarrays-i",
+  "titleSlug": "count-consistent-subarrays-i",
+  "frontendQuestionId": null,
+  "leetcodeUrl": "https://leetcode.com/problems/count-consistent-subarrays-i/",
+  "difficulty": "Unknown",
+  "topics": [],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-15T02:39:07.447Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-15T02:39:09.500Z"
+}
