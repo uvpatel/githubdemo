@@ -1,0 +1,18 @@
+ handle edge cases like removing the head
+        dummy = ListNode(0, head)
+        slow = dummy
+        fast = dummy
+        
+        # Advance fast pointer n steps ahead
+        for _ in range(n):
+            fast = fast.next
+            
+        # Move both pointers until fast reaches the last node
+        while fast.next:
+            slow = slow.next
+            fast = fast.next
+            
+        # Skip the target node
+        slow.next = slow.next.next
+        
+        return dummy.next

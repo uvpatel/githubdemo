@@ -1,0 +1,23 @@
+{
+  "title": "Remove Nth Node From End of List",
+  "titleSlug": "remove-nth-node-from-end-of-list",
+  "frontendQuestionId": "19",
+  "leetcodeUrl": "https://leetcode.com/problems/remove-nth-node-from-end-of-list/",
+  "difficulty": "Medium",
+  "topics": [
+    "Linked List",
+    "Two Pointers"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-16T04:16:00.181Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-16T04:16:02.090Z"
+}
