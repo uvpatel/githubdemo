@@ -1,0 +1,24 @@
+{
+  "title": "Complete Prime Number",
+  "titleSlug": "complete-prime-number",
+  "frontendQuestionId": "3765",
+  "leetcodeUrl": "https://leetcode.com/problems/complete-prime-number/",
+  "difficulty": "Medium",
+  "topics": [
+    "Math",
+    "Enumeration",
+    "Number Theory"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-18T16:35:09.640Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-18T16:35:11.736Z"
+}
