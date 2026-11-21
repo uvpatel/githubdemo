@@ -1,0 +1,20 @@
+{
+  "title": "minimum-set-bits-in-a-valid-integer",
+  "titleSlug": "minimum-set-bits-in-a-valid-integer",
+  "frontendQuestionId": null,
+  "leetcodeUrl": "https://leetcode.com/problems/minimum-set-bits-in-a-valid-integer/",
+  "difficulty": "Unknown",
+  "topics": [],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-21T15:16:43.052Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-21T15:16:46.186Z"
+}
