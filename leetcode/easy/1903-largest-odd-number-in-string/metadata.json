@@ -1,0 +1,24 @@
+{
+  "title": "Largest Odd Number in String",
+  "titleSlug": "largest-odd-number-in-string",
+  "frontendQuestionId": "1903",
+  "leetcodeUrl": "https://leetcode.com/problems/largest-odd-number-in-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "Math",
+    "String",
+    "Greedy"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-23T18:36:50.982Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-23T18:36:53.802Z"
+}
