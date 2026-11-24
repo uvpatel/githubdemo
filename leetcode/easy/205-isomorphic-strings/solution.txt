@@ -1,0 +1,19 @@
+alse
+
+        forward: dict[str, str] = {}
+        backward: dict[str, str] = {}
+
+        for source, target in zip(s, t):
+
+            # Check source -> target mapping
+            if source in forward and forward[source] != target:
+                return False
+
+            # Check target -> source mapping
+            if target in backward and backward[target] != source:
+                return False
+
+            forward[source] = target
+            backward[target] = source
+
+        return True

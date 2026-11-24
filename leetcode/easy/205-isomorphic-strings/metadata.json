@@ -1,0 +1,23 @@
+{
+  "title": "Isomorphic Strings",
+  "titleSlug": "isomorphic-strings",
+  "frontendQuestionId": "205",
+  "leetcodeUrl": "https://leetcode.com/problems/isomorphic-strings/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "String"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-24T11:45:40.413Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-24T11:45:42.466Z"
+}
