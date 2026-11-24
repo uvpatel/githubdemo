@@ -1,0 +1,19 @@
+True
+        
+        # for shift in range(len(s)):
+        #     rotated = s[shift:] + s[:shift]
+
+        #     if rotated == goal:
+        #         return True
+            
+        # return False
+           # A valid rotation must keep the original length.
+        if len(s) != len(goal):
+            return False
+ 
+        # Two copies contain every possible rotation of s.
+        doubled: str = s + s
+ 
+        # Check whether goal appears as one continuous part.
+        return goal in doubled
+

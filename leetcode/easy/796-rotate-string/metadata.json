@@ -1,0 +1,23 @@
+{
+  "title": "Rotate String",
+  "titleSlug": "rotate-string",
+  "frontendQuestionId": "796",
+  "leetcodeUrl": "https://leetcode.com/problems/rotate-string/",
+  "difficulty": "Easy",
+  "topics": [
+    "String",
+    "String Matching"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-24T11:49:33.869Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-24T11:49:36.880Z"
+}
