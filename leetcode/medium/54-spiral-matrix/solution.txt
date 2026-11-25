@@ -1,0 +1,13 @@
+ow from right to left.
+                for col in range(right, left - 1, -1):
+                    order.append(matrix[bottom][col])
+                bottom -= 1
+ 
+            # A left column remains only if the right boundary has not crossed it.
+            if left <= right:
+                # Collect the current left column from bottom to top.
+                for row in range(bottom, top - 1, -1):
+                    order.append(matrix[row][left])
+                left += 1
+ 
+        return order

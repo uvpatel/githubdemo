@@ -1,0 +1,24 @@
+{
+  "title": "Spiral Matrix",
+  "titleSlug": "spiral-matrix",
+  "frontendQuestionId": "54",
+  "leetcodeUrl": "https://leetcode.com/problems/spiral-matrix/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Matrix",
+    "Simulation"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-25T15:13:28.742Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-25T15:13:30.963Z"
+}
