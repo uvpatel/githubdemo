@@ -1,28 +1,18 @@
 class Solution:
     def maxFrequency(self, nums: list[int], k: int) -> int:
-        # If the array is empty, there is no answer.
-        # two pointer
-        # nums.sort()
-        # left = right = res = total = 0
+        nums.sort()
 
-        # while right < len(nums):
-        #     total += nums[right]
+        left = 0
+        total = 0
+        answer = 0
 
-        #     while nums[right] * (right - left + 1) > total + k:
-        #         total -= nums[left]
-        #         left += 1
-            
-        #     res = max(res, right - left + 1)
-        #     right +=…uency of the current element.
-            frequency[value] = frequency.get(value, 0) + 1
-            currentFrequency = frequency[value]
- 
-            # Update the answer if the current element
-            # has a higher frequency or wins the tie-break.
-            if (currentFrequency > maxFrequency or
-                (currentFrequency == maxFrequency and value < answer)):
-                maxFrequency = currentFrequency
-                answer = value
- 
+        for right in range(len(nums)):
+            total += nums[right]
+
+            while nums[right] * (right - left + 1) > total + k:
+                total -= nums[left]
+                left += 1
+
+            answer = max(answer, right - left + 1)
+
         return answer
-        # return res
