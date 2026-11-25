@@ -1,18 +1,30 @@
-      l, r = i, i
+class Solution:
+    def longestPalindrome(self, s: str) -> str:
+        if not s:
+            return ""
 
-            while l >= 0 and r < len(s) and s[l] == s[r]:
-                if r - l + 1 > len(res):
-                    res = s[l:r + 1]
-                l -= 1
-                r += 1
+        start, end = 0, 0
 
-            # Even-length palindrome: center is between characters
-            l, r = i, i + 1
+        for i in range(len(s)):
 
-            while l >= 0 and r < len(s) and s[l] == s[r]:
-                if r - l + 1 > len(res):
-                    res = s[l:r + 1]
-                l -= 1
-                r += 1
+            # Odd length palindrome
+            left1, right1 = i, i
 
-        return res
+            while left1 >= 0 and right1 < len(s) and s[left1] == s[right1]:
+                left1 -= 1
+                right1 += 1
+
+            # Even length palindrome
+            left2, right2 = i, i + 1
+
+            while left2 >= 0 and right2 < len(s) and s[left2] == s[right2]:
+                left2 -= 1
+                right2 += 1
+
+            # Find the maximum length
+            len1 = right1 - left1 - 1
+            len2 = right2 - left2 - 1
+
+            max_len = max(len1, len2)
+
+     
