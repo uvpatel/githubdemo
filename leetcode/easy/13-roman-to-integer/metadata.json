@@ -1,0 +1,24 @@
+{
+  "title": "Roman to Integer",
+  "titleSlug": "roman-to-integer",
+  "frontendQuestionId": "13",
+  "leetcodeUrl": "https://leetcode.com/problems/roman-to-integer/",
+  "difficulty": "Easy",
+  "topics": [
+    "Hash Table",
+    "Math",
+    "String"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-25T16:16:43.359Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-25T16:16:46.260Z"
+}
