@@ -1,0 +1,27 @@
+{
+  "title": "Frequency of the Most Frequent Element",
+  "titleSlug": "frequency-of-the-most-frequent-element",
+  "frontendQuestionId": "1838",
+  "leetcodeUrl": "https://leetcode.com/problems/frequency-of-the-most-frequent-element/",
+  "difficulty": "Medium",
+  "topics": [
+    "Array",
+    "Binary Search",
+    "Greedy",
+    "Sliding Window",
+    "Sorting",
+    "Prefix Sum"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-25T16:00:37.596Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-25T16:00:39.590Z"
+}
