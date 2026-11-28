@@ -1,0 +1,22 @@
+{
+  "title": "Check if Array Is Sorted and Rotated",
+  "titleSlug": "check-if-array-is-sorted-and-rotated",
+  "frontendQuestionId": "1752",
+  "leetcodeUrl": "https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/",
+  "difficulty": "Easy",
+  "topics": [
+    "Array"
+  ],
+  "language": "Unknown",
+  "verdict": "Accepted",
+  "submissionId": null,
+  "submittedAt": "2026-11-28T00:13:31.966Z",
+  "runtimeMs": null,
+  "memoryKb": null,
+  "totalCorrect": null,
+  "totalTestcases": null,
+  "helpType": "PENDING_SELF_REPORT",
+  "helpLabel": "Pending self report",
+  "focusSeconds": null,
+  "syncedAt": "2026-11-28T00:13:33.939Z"
+}
